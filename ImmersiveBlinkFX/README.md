@@ -1,4 +1,4 @@
-# 👀 Immersive Blink FX - V1.2.0 👀
+# 👀 Immersive Blink FX - V1.3.0 👀
 
 ## 🙎🏼‍♀️ Overview
 
